@@ -56,7 +56,7 @@
     </el-form>
     <!--  底部  -->
     <div class="el-login-footer">
-      <span>Copyright © 2021-2022 南昌航空大学科技学院-信息电子学部 [188207245]肖家海.</span>
+      <span>Copyright © 2023 fall 北京交通大学-LUC-BJTU [188207245]蒋文睿.</span>
     </div>
   </div>
 </template>

@@ -54,8 +54,8 @@
                 name:'提交者',//结点名称
                 templateEntity:{
                   id:1,
-                  title:'南昌航空大学科技学院-图书馆图书采购审批流程(试行办法-2022版)',
-                  mark:'南昌航空大学科技学院-图书馆图书采购审批流程(试行办法-2022版)',
+                  title:'北京交通大学-图书馆图书采购审批流程(试行办法-2022版)',
+                  mark:'北京交通大学-图书馆图书采购审批流程(试行办法-2022版)',
                   createPersonal:1,
                   createTime:'2022-03-03 12:12:00'
                 },//审批模板实体
@@ -71,7 +71,7 @@
                 createPersonalEntity:{
                   userId:1,
                   userName:'admin',
-                  nickName:'肖家海',
+                  nickName:'蒋文睿',
                   deptId:103,
                 },//结点创建人信息
                 createPersonal:1,//结点创建人id
@@ -79,7 +79,7 @@
                 updatePersonalEntity:{
                   userId:1,
                   userName:'admin',
-                  nickName:'肖家海',
+                  nickName:'蒋文睿',
                   deptId:103,
                 },//结点更新人信息
                 updatePersonal:1,//结点更新人id
@@ -89,8 +89,8 @@
                   name:'提交者',//结点名称
                   templateEntity:{
                     id:1,
-                    title:'南昌航空大学科技学院-图书馆图书采购审批流程(试行办法-2022版)',
-                    mark:'南昌航空大学科技学院-图书馆图书采购审批流程(试行办法-2022版)',
+                    title:'北京交通大学-图书馆图书采购审批流程(试行办法-2022版)',
+                    mark:'北京交通大学-图书馆图书采购审批流程(试行办法-2022版)',
                     createPersonal:1,
                     createTime:'2022-03-03 12:12:00'
                   },//审批模板实体
@@ -106,7 +106,7 @@
                   createPersonalEntity:{
                     userId:1,
                     userName:'admin',
-                    nickName:'肖家海',
+                    nickName:'蒋文睿',
                     deptId:103,
                   },//结点创建人信息
                   createPersonal:1,//结点创建人id
@@ -114,7 +114,7 @@
                   updatePersonalEntity:{
                     userId:1,
                     userName:'admin',
-                    nickName:'肖家海',
+                    nickName:'蒋文睿',
                     deptId:103,
                   },//结点更新人信息
                   updatePersonal:1,//结点更新人id
@@ -124,8 +124,8 @@
                     name:'提交者',//结点名称
                     templateEntity:{
                       id:1,
-                      title:'南昌航空大学科技学院-图书馆图书采购审批流程(试行办法-2022版)',
-                      mark:'南昌航空大学科技学院-图书馆图书采购审批流程(试行办法-2022版)',
+                      title:'北京交通大学-图书馆图书采购审批流程(试行办法-2022版)',
+                      mark:'北京交通大学-图书馆图书采购审批流程(试行办法-2022版)',
                       createPersonal:1,
                       createTime:'2022-03-03 12:12:00'
                     },//审批模板实体
@@ -141,7 +141,7 @@
                     createPersonalEntity:{
                       userId:1,
                       userName:'admin',
-                      nickName:'肖家海',
+                      nickName:'蒋文睿',
                       deptId:103,
                     },//结点创建人信息
                     createPersonal:1,//结点创建人id
@@ -149,7 +149,7 @@
                     updatePersonalEntity:{
                       userId:1,
                       userName:'admin',
-                      nickName:'肖家海',
+                      nickName:'蒋文睿',
                       deptId:103,
                     },//结点更新人信息
                     updatePersonal:1,//结点更新人id
@@ -159,8 +159,8 @@
                       name:'提交者',//结点名称
                       templateEntity:{
                         id:1,
-                        title:'南昌航空大学科技学院-图书馆图书采购审批流程(试行办法-2022版)',
-                        mark:'南昌航空大学科技学院-图书馆图书采购审批流程(试行办法-2022版)',
+                        title:'北京交通大学-图书馆图书采购审批流程(试行办法-2022版)',
+                        mark:'北京交通大学-图书馆图书采购审批流程(试行办法-2022版)',
                         createPersonal:1,
                         createTime:'2022-03-03 12:12:00'
                       },//审批模板实体
@@ -176,7 +176,7 @@
                       createPersonalEntity:{
                         userId:1,
                         userName:'admin',
-                        nickName:'肖家海',
+                        nickName:'蒋文睿',
                         deptId:103,
                       },//结点创建人信息
                       createPersonal:1,//结点创建人id
@@ -184,7 +184,7 @@
                       updatePersonalEntity:{
                         userId:1,
                         userName:'admin',
-                        nickName:'肖家海',
+                        nickName:'蒋文睿',
                         deptId:103,
                       },//结点更新人信息
                       updatePersonal:1,//结点更新人id
@@ -210,7 +210,7 @@
                         handelPersonalEntity:{
                           userId:1,
                           userName:'admin',
-                          nickName:'肖家海',
+                          nickName:'蒋文睿',
                           deptId:103,
                         },//处理人信息
                         handelResult:1,//处理结果类型
@@ -241,7 +241,7 @@
                       handelPersonalEntity:{
                         userId:1,
                         userName:'admin',
-                        nickName:'肖家海',
+                        nickName:'蒋文睿',
                         deptId:103,
                       },//处理人信息
                       handelResult:1,//处理结果类型
@@ -272,7 +272,7 @@
                     handelPersonalEntity:{
                       userId:1,
                       userName:'admin',
-                      nickName:'肖家海',
+                      nickName:'蒋文睿',
                       deptId:103,
                     },//处理人信息
                     handelResult:1,//处理结果类型
@@ -303,7 +303,7 @@
                   handelPersonalEntity:{
                     userId:1,
                     userName:'admin',
-                    nickName:'肖家海',
+                    nickName:'蒋文睿',
                     deptId:103,
                   },//处理人信息
                   handelResult:1,//处理结果类型
